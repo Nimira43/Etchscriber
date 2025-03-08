@@ -11,3 +11,12 @@ body {
   color: #ff4500;
   line-height: 80px;
 }
+
+.input-container {
+  width: 200px;
+  margin: 0 auto;
+  background-color: #000;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #ff4500; 
+}
